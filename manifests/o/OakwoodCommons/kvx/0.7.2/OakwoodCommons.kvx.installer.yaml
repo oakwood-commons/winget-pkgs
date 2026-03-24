@@ -12,7 +12,7 @@ Installers:
       - RelativeFilePath: kvx.exe
         PortableCommandAlias: kvx
     InstallerUrl: https://github.com/oakwood-commons/kvx/releases/download/v0.7.2/kvx_0.7.2_Windows_arm64.zip
-    InstallerSha256: f4f6ab729ac7eaad2f1fb9a7a658e766862549127aa2644d648cb11886b368ba
+    InstallerSha256: 90793d682e0ba5a6586729f72c4c36edf5813e5501a0e37a2f00383f4cb2f8dd
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
     NestedInstallerType: portable
@@ -20,7 +20,7 @@ Installers:
       - RelativeFilePath: kvx.exe
         PortableCommandAlias: kvx
     InstallerUrl: https://github.com/oakwood-commons/kvx/releases/download/v0.7.2/kvx_0.7.2_Windows_x86_64.zip
-    InstallerSha256: 5eefebf5aa10d9f1de6593528a18ca0be9feeb42fcc40794c15a42fc5186977b
+    InstallerSha256: e848a6d8f363e22d33a60dede5593857c11a581a9cb6d49744b65c14dec71b4c
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer
 ManifestVersion: 1.12.0
